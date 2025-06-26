@@ -1,0 +1,8 @@
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Pj1\Pj1\bin\Debug\Pj1.exe.config
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Pj1\Pj1\bin\Debug\Pj1.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Pj1\Pj1\bin\Debug\Pj1.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Pj1\Pj1\obj\Debug\Pj1.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Pj1\Pj1\obj\Debug\Pj1.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Pj1\Pj1\obj\Debug\Pj1.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Pj1\Pj1\obj\Debug\Pj1.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Pj1\Pj1\obj\Debug\Pj1.exe.config
