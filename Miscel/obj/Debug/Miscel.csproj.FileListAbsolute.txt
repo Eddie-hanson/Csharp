@@ -1,0 +1,8 @@
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Miscel\bin\Debug\Miscel.exe.config
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Miscel\bin\Debug\Miscel.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Miscel\bin\Debug\Miscel.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Miscel\obj\Debug\Miscel.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Miscel\obj\Debug\Miscel.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Miscel\obj\Debug\Miscel.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Miscel\obj\Debug\Miscel.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Miscel\obj\Debug\Miscel.exe.config

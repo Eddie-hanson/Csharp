@@ -1,0 +1,8 @@
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\NonPrimitiveDtype\obj\Debug\NonPrimitiveDtype.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\NonPrimitiveDtype\obj\Debug\NonPrimitiveDtype.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\NonPrimitiveDtype\bin\Debug\NonPrimitiveDtype.exe.config
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\NonPrimitiveDtype\bin\Debug\NonPrimitiveDtype.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\NonPrimitiveDtype\bin\Debug\NonPrimitiveDtype.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\NonPrimitiveDtype\obj\Debug\NonPrimitiveDtype.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\NonPrimitiveDtype\obj\Debug\NonPrimitiveDtype.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\NonPrimitiveDtype\obj\Debug\NonPrimitiveDtype.exe.config
