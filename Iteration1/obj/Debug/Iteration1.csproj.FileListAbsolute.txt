@@ -1,0 +1,8 @@
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration1\bin\Debug\Iteration1.exe.config
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration1\bin\Debug\Iteration1.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration1\bin\Debug\Iteration1.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration1\obj\Debug\Iteration1.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration1\obj\Debug\Iteration1.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration1\obj\Debug\Iteration1.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration1\obj\Debug\Iteration1.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration1\obj\Debug\Iteration1.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration2\bin\Debug\Iteration2.exe.config
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration2\bin\Debug\Iteration2.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration2\bin\Debug\Iteration2.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration2\obj\Debug\Iteration2.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration2\obj\Debug\Iteration2.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration2\obj\Debug\Iteration2.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration2\obj\Debug\Iteration2.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Iteration2\obj\Debug\Iteration2.exe.config

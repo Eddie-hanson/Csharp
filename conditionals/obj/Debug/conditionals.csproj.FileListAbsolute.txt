@@ -1,0 +1,7 @@
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\conditionals\bin\Debug\conditionals.exe.config
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\conditionals\bin\Debug\conditionals.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\conditionals\bin\Debug\conditionals.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\conditionals\obj\Debug\conditionals.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\conditionals\obj\Debug\conditionals.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\conditionals\obj\Debug\conditionals.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\conditionals\obj\Debug\conditionals.pdb

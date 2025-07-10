@@ -1,0 +1,8 @@
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\IntArrays\bin\Debug\IntArrays.exe.config
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\IntArrays\bin\Debug\IntArrays.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\IntArrays\bin\Debug\IntArrays.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\IntArrays\obj\Debug\IntArrays.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\IntArrays\obj\Debug\IntArrays.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\IntArrays\obj\Debug\IntArrays.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\IntArrays\obj\Debug\IntArrays.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\IntArrays\obj\Debug\IntArrays.exe.config

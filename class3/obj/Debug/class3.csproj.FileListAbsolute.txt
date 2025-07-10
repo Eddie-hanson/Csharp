@@ -1,0 +1,8 @@
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\class3\bin\Debug\class3.exe.config
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\class3\bin\Debug\class3.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\class3\bin\Debug\class3.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\class3\obj\Debug\class3.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\class3\obj\Debug\class3.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\class3\obj\Debug\class3.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\class3\obj\Debug\class3.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\class3\obj\Debug\class3.exe.config

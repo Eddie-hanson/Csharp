@@ -1,0 +1,8 @@
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Class2\obj\Debug\Class2.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Class2\obj\Debug\Class2.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Class2\bin\Debug\Class2.exe.config
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Class2\bin\Debug\Class2.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Class2\bin\Debug\Class2.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Class2\obj\Debug\Class2.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Class2\obj\Debug\Class2.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Class2\obj\Debug\Class2.exe.config

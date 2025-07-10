@@ -1,0 +1,8 @@
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\String2\bin\Debug\String2.exe.config
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\String2\bin\Debug\String2.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\String2\bin\Debug\String2.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\String2\obj\Debug\String2.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\String2\obj\Debug\String2.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\String2\obj\Debug\String2.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\String2\obj\Debug\String2.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\String2\obj\Debug\String2.exe.config

@@ -1,0 +1,8 @@
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\LEC2\obj\Debug\LEC2.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\LEC2\obj\Debug\LEC2.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\LEC2\bin\Debug\LEC2.exe.config
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\LEC2\bin\Debug\LEC2.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\LEC2\bin\Debug\LEC2.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\LEC2\obj\Debug\LEC2.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\LEC2\obj\Debug\LEC2.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\LEC2\obj\Debug\LEC2.exe.config

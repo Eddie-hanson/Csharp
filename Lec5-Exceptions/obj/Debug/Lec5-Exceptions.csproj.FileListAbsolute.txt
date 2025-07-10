@@ -1,0 +1,8 @@
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Lec5-Exceptions\bin\Debug\Lec5-Exceptions.exe.config
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Lec5-Exceptions\bin\Debug\Lec5-Exceptions.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Lec5-Exceptions\bin\Debug\Lec5-Exceptions.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Lec5-Exceptions\obj\Debug\Lec5-Exceptions.csproj.AssemblyReference.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Lec5-Exceptions\obj\Debug\Lec5-Exceptions.csproj.CoreCompileInputs.cache
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Lec5-Exceptions\obj\Debug\Lec5-Exceptions.exe
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Lec5-Exceptions\obj\Debug\Lec5-Exceptions.pdb
+C:\Users\Mr Hanson\Desktop\programming_2\Learnings\Lec5-Exceptions\obj\Debug\Lec5-Exceptions.exe.config
